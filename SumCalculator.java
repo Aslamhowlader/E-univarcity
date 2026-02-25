@@ -16,6 +16,8 @@ public class SumCalculator {
         int sub= num1 + num2;
         System.out.println("Sub: " + sub);
 
+       int div = num1 + num2;
+        System.out.println("Sum: " + div);
         input.close();
     }
 }
